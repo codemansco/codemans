@@ -1,0 +1,20 @@
+{
+	"version": "0.1.0",
+	"configurations": [
+		
+		{
+			"type": "chrome",
+			"request": "launch",
+			"name": "Launch Chrome",
+			"url": "http://localhost:3001",
+			"webRoot": "${workspaceFolder}"
+		},
+		{
+			"type": "browser-preview",
+			"request": "launch",
+			"name": "Launch: Browser Preview",
+			"url": "http://localhost:3000",
+			"webRoot": "${workspaceFolder}"
+		}
+	]
+}
