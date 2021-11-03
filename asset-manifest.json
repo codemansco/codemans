@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/codemans/static/css/main.10e6fba5.chunk.css",
-    "main.js": "/codemans/static/js/main.3a7a1b40.chunk.js",
-    "runtime-main.js": "/codemans/static/js/runtime-main.cb703a37.js",
-    "static/js/2.01d03ff6.chunk.js": "/codemans/static/js/2.01d03ff6.chunk.js",
-    "static/js/3.d4a83063.chunk.js": "/codemans/static/js/3.d4a83063.chunk.js",
-    "index.html": "/codemans/index.html",
-    "static/js/2.01d03ff6.chunk.js.LICENSE.txt": "/codemans/static/js/2.01d03ff6.chunk.js.LICENSE.txt",
-    "static/media/under_construction.0b261325.svg": "/codemans/static/media/under_construction.0b261325.svg"
+    "main.css": "https://codemans.co/static/css/main.10e6fba5.chunk.css",
+    "main.js": "https://codemans.co/static/js/main.3a7a1b40.chunk.js",
+    "runtime-main.js": "https://codemans.co/static/js/runtime-main.9b37aab5.js",
+    "static/js/2.01d03ff6.chunk.js": "https://codemans.co/static/js/2.01d03ff6.chunk.js",
+    "static/js/3.d4a83063.chunk.js": "https://codemans.co/static/js/3.d4a83063.chunk.js",
+    "index.html": "https://codemans.co/index.html",
+    "static/js/2.01d03ff6.chunk.js.LICENSE.txt": "https://codemans.co/static/js/2.01d03ff6.chunk.js.LICENSE.txt",
+    "static/media/under_construction.0b261325.svg": "https://codemans.co/static/media/under_construction.0b261325.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb703a37.js",
+    "static/js/runtime-main.9b37aab5.js",
     "static/js/2.01d03ff6.chunk.js",
     "static/css/main.10e6fba5.chunk.css",
     "static/js/main.3a7a1b40.chunk.js"
